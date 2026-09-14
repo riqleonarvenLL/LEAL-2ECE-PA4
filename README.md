@@ -43,7 +43,8 @@ The activity follows three tasks (A, B, C) as required in the lab instructions.
 
   <img width="1124" height="1302" alt="image" src="https://github.com/user-attachments/assets/ef93616e-1c2c-4ae2-a7fa-e9ddc880cc80" />
   <img width="2074" height="1142" alt="image" src="https://github.com/user-attachments/assets/8d786697-239d-4e57-bc26-9ddcb2f54b2d" />
-  
+  <img width="1236" height="750" alt="image" src="https://github.com/user-attachments/assets/910cb283-411a-4a32-8c21-e2fc6f009dfd" />
+
 
 
 
