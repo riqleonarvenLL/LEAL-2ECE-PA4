@@ -9,6 +9,9 @@ The dataset used is `board2.xlsx`, containing ECE Board Exam 2 results with colu
 
 The activity follows three tasks (A, B, C) as required in the lab instructions.
 
+<img width="616" height="525" alt="image" src="https://github.com/user-attachments/assets/3169efac-89c9-44fe-980b-deba4bfa2486" />
+
+
 ----
 
 ## 🅰️ Visayas Communication DataFrame
